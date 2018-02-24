@@ -1,5 +1,8 @@
 <h1>Vue Telegram Login</h1>
 <p>
+    <img src="https://i.imgur.com/ex5hnL3.png" />
+    <br>
+    <br>
     <a href="https://badge.fury.io/js/vue-telegram-login">
         <img src="https://badge.fury.io/js/vue-telegram-login.svg" />
     </a>
