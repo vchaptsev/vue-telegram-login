@@ -1,5 +1,5 @@
 {
-  "name": "telegram-login",
+  "name": "vue-telegram-login",
   "version": "0.0.0-development",
   "description": "Vue component for Telegram login",
   "main": "dist/vue-telegram-login.js",
