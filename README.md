@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Vue Telegram Login</h1>
-<p align="center">
+<h1>Vue Telegram Login</h1>
+<p>
     <a href="https://badge.fury.io/js/vue-telegram-login">
         <img src="https://badge.fury.io/js/vue-telegram-login.svg" />
     </a>
@@ -8,9 +8,10 @@
     </a>
     <a href="https://travis-ci.org/vchaptsev/vue-telegram-login">
         <img src="https://travis-ci.org/vchaptsev/vue-telegram-login.svg?branch=master" />
-    </a><br><br>
-    **vue-telegram-login** is a Vue component for [Telegram Login](https://core.telegram.org/widgets/login)
+    </a><br>
 </p>
+
+**vue-telegram-login** is a Vue component for [Telegram Login](https://core.telegram.org/widgets/login)
 
 
 ## Installation
