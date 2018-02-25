@@ -22,13 +22,13 @@
 Install with [yarn](https://yarnpkg.com):
 
   ```bash
-  $ yarn add vue-yandex-metrika
+  $ yarn add vue-telegram-login
   ```
 
 Install with [npm](https://npmjs.com):
 
   ```bash
-  $ npm i vue-yandex-metrika --save
+  $ npm i vue-telegram-login --save
   ```
 
 or if you just want to try it out, [unpkg](https://unpkg.com/#/) has ready-to-use packages.
