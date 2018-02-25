@@ -92,6 +92,7 @@ You can play around with options on the official [widget page](https://core.tele
 | radius        | Button corner radius (default depends on chosen size)                         | False    | 20\14\10    |
 
 
-## Note
-You need to verify the authentication and the integrity of the data received by comparing the received hash parameter with the hexadecimal representation of the HMAC-SHA-256 signature of the data-check-string with the SHA256 hash of the bot's token used as a secret key ([source](https://core.telegram.org/widgets/login#checking-authorization)).<br>
+## Notes
+1. You need to set domain to your bot if you want to user Telagram Login (`/setdomain` command to [@BotFather](https://t.me/botfather))
+2. You need to verify the authentication and the integrity of the data received by comparing the received hash parameter with the hexadecimal representation of the HMAC-SHA-256 signature of the data-check-string with the SHA256 hash of the bot's token used as a secret key ([source](https://core.telegram.org/widgets/login#checking-authorization)).<br>
 You can find some code samples [on this page](https://gist.github.com/anonymous/6516521b1fb3b464534fbc30ea3573c2).
