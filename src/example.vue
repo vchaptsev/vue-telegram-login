@@ -1,16 +1,18 @@
 <template>
-  
+
   <!-- Callback mode -->
-  <vue-telegram-login 
+  <vue-telegram-login
     mode="callback"
     telegram-login="YourTelegramBot"
-    @callback="yourCallbackFunction" />
-  
+    @callback="yourCallbackFunction"
+  />
+
   <!-- Redirect mode -->
-  <vue-telegram-login 
+  <vue-telegram-login
     mode="redirect"
     telegram-login="YourTelegramBot"
-    redirect-url="https://your-website.io" />
+    redirect-url="https://your-website.io"
+  />
 
 </template>
 

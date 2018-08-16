@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: 'telegram-login',
+  name: 'vue-telegram-login',
   props: {
     mode: {
       type: String,
